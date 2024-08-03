@@ -1,0 +1,26 @@
+npm create vite@latest .
+
+npm run dev
+
+
+backend
+
+npm run server
+
+entry point: server.js
+
+mongoose : database
+jsonwebtoken : authentication 
+bcrypt : encrypt user data
+cors : permission for frontend to connect with backend
+dotenv : env variable
+bady-parser : parse the data from user
+multer: image store system
+nodemon : when saved server restarts
+
+
+
+
+axios : network request
+
+npm install axios react-toastify react-router-dom
